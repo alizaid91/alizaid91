@@ -13,7 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://studyconnect.live">🌐 Live Project</a> •
+  <a href="https://devalizaid.me">🌐 Portfolio</a> •
+  <a href="https://studyconnect.live">🚀 Study Connect</a> •
   <a href="https://drive.google.com/open?id=1u5XU-axDk9hBbf0vHj8PSgE4ufbZ93vB&usp=drive_copy">📄 Resume</a> •
   <a href="mailto:alizaidshaikh9975@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/alizaid91">💼 LinkedIn</a>
@@ -67,6 +68,7 @@
 
 ### 📫 Let’s Connect
 
+- 🌐 [Portfolio](https://devalizaid.me)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/alizaid91)  
 - 📧 [Email](mailto:alizaidshaikh9975@gmail.com)  
 - 📄 [Resume](https://drive.google.com/open?id=1u5XU-axDk9hBbf0vHj8PSgE4ufbZ93vB&usp=drive_copy)  
