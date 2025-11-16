@@ -1,7 +1,7 @@
 <!-- Profile README for alizaid91 -->
 
 <p align="center">
-  <img src="https://github.com/alizaid91.png" width="140" alt="Shaikh Ali Zaid" style="border-radius:50%" />
+  <img src="https://lh3.googleusercontent.com/d/1zgAPOE5p1i5cXCnCWmWSIb6aEJ8tS-MJ" width="140" alt="Shaikh Ali Zaid" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Shaikh Ali Zaid</h1>
