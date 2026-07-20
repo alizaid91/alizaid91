@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋 I'm Shaikh Ali Zaid</h1>
 
 <p align="center">
-  🎓 3rd-year B.Tech IT Student (Pune) <br/>
+  🎓 4rd-year B.Tech IT Student (Pune) <br/>
   💻 Web Developer specializing in React + TypeScript <br/>
   🚀 Currently building <strong><a href="https://studyconnect.live" target="_blank">Study Connect</a></strong>
 </p>
